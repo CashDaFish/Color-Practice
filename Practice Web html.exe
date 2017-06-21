@@ -1,0 +1,16 @@
+<!DOCTYPE>
+index.html
+ +<html>
+ +	<head>
+ +		<title> Practice Web Page Color</title>
+ +	   </head>
+ +	   <body>
+ +	      <h1>My Favorite quotes</h1>
+ 	<p>"I can do all things"</p>
+ 		<p>An investment in knowledge pays the best interest</p>
+ 			body { font-family: sans-sefif; background-color: red}
+
+ + 		title{color: white}
+ +	      
+ +	   </body>
+ +	</html> 
